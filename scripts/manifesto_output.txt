@@ -1,0 +1,12 @@
+----------------------------------------
+       OPEN SOURCE MANIFESTO
+       By: Student Analyst
+----------------------------------------
+We believe in the power of open collaboration,
+guided by Readability and driven by Transparency.
+
+Inspired by Python's design principles, we pledge to:
+1. Foster a culture of Transparency.
+2. Keep code accessible by maintaining Simplicity.
+3. Remember that Simplicity over complexity is key.
+----------------------------------------
