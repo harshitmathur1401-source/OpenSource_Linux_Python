@@ -12,9 +12,7 @@ USER_NAME=$(whoami)
 UPTIME=$(uptime -p 2>/dev/null || echo "Unknown")
 
 # --- Display ---
-echo "======================================"
 echo "  Open Source Audit - $STUDENT_NAME"
-echo "======================================"
 echo "Kernel  : $KERNEL"
 echo "User    : $USER_NAME"
 echo "Uptime  : $UPTIME"
