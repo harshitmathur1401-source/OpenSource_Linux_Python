@@ -1,9 +1,15 @@
 #!/bin/bash
+#==================================================================
 # Script 3: Disk and Permission Auditor
+# Author: Harshit Mathur | Reg No : 24BCE10220
+# Course: Open Source Software | VIT Bhopal University
+# Purpose: Check disk usage and file permissions
+#==================================================================
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
 echo "Directory Audit Report"
+echo "----------------------"
 
 for DIR in "${DIRS[@]}"; do
     if [ -d "$DIR" ]; then
