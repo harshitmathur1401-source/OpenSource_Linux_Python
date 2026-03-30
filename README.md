@@ -44,4 +44,5 @@ These scripts are designed **strictly for Linux architectures**. Running them on
    - For Interactive Manifesto Generation: `./philosophy_gen.sh`
 
 ## Artifact Verification
-All technical outputs and script logs have been analyzed and securely embedded at the conclusion of the `report.md` output as **Walkthrough Artifacts**.
+All technical outputs and script logs have been analyzed and securely embedded at the conclusion in the Report.
+
