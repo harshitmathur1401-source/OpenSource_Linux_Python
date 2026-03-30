@@ -1,5 +1,10 @@
 #!/bin/bash
+#==================================================================
 # Script 2: FOSS Package Inspector
+# Author : Harshit Mathur | Reg No : 24BCE10220
+# Course : Open Source Software | VIT Bhopal University
+# Purpose: Check if a package is installed and print its details
+#==================================================================
 
 PACKAGE="python3"   # e.g. httpd, mysql, vlc, firefox
 
