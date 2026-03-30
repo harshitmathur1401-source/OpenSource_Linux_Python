@@ -1,6 +1,10 @@
 #!/bin/bash
+#==================================================================
 # Script 4: Log File Analyzer
-# Usage: ./pip_log_analyzer.sh /var/log/messages
+# Author: Harshit Mathur | Reg No : 24BCE10220
+# Course: Open Source Software | VIT Bhopal University
+# Purpose: Check disk usage and file permissions
+#==================================================================
 
 LOGFILE=${1:-"/tmp/mock_pip.log"}
 KEYWORD=${2:-"ERROR"}    # Default keyword is 'error'
