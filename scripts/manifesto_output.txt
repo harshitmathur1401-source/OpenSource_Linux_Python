@@ -1,6 +1,6 @@
 
        OPEN SOURCE MANIFESTO
-       By: Student Analyst
+       By: Harshit Mathur
 
 We believe in the power of open collaboration,
 guided by Readability and driven by Transparency.
