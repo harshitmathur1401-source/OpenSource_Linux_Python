@@ -5,7 +5,6 @@ This repository contains the required artifacts for "The Open Source Audit" Caps
 
 ## Repository Structure
 
-- `report.md`: The primary analytical report (16-page target equivalent) on the Python ecosystem.
 - `scripts/`: Directory containing 5 robust shell scripts written strictly for Linux.
   - `system_identity.sh`
   - `python_inspector.sh`
