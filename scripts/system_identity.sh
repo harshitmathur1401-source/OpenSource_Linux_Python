@@ -1,10 +1,15 @@
 #!/bin/bash
+#==================================================================
 # Script 1: System Identity Report
-# Author: Student Analyst | Course: Open Source Software
+# Author: Harshit Mathur | Reg No : 24BCE10220
+# Course: Open Source Software | VIT Bhopal University
+# Purpose: Display system information as a welcome screen
+#==================================================================
 
 # --- Variables ---
-STUDENT_NAME="Student Analyst"       # Fill in your name
-SOFTWARE_CHOICE="Python"             # Fill in your chosen software
+STUDENT_NAME="Harshit Mathur" 
+REG_NUMBER="24BCE10220"      
+SOFTWARE_CHOICE="Python"             
 
 # --- System info ---
 KERNEL=$(uname -r)
@@ -12,7 +17,9 @@ USER_NAME=$(whoami)
 UPTIME=$(uptime -p 2>/dev/null || echo "Unknown")
 
 # --- Display ---
+echo "======================================"
 echo "  Open Source Audit - $STUDENT_NAME"
+echo "======================================"
 echo "Kernel  : $KERNEL"
 echo "User    : $USER_NAME"
 echo "Uptime  : $UPTIME"
